@@ -1,3 +1,17 @@
+"""
+calculations 
+when we enter 3 , width is 9
+when we enter 5 , width is 17
+when we enter 6 , width is 21
+
+it is calculated as series 4*n - 3
+
+# this is reversing the list [::1]
+#use string module to generate alphabets using string.ascii_lowercase
+# used join 
+# list append is also used in this 
+"""
+
 import string
 def print_rangoli(size):
     alpha = string.ascii_lowercase
